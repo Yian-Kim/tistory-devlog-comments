@@ -1,6 +1,6 @@
 # Tistory TechBlog Comments
 
-> Tistory devlog comment store with utterances
+> Tistory TechBlog comments store with utterances
 
 ## 소개
 
